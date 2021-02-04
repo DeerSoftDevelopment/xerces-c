@@ -175,7 +175,7 @@ install(
   COMPONENT "development")
 
 # Process subdirectories
-add_subdirectory(doc)
+#add_subdirectory(doc)
 add_subdirectory(src)
 add_subdirectory(tests)
 add_subdirectory(samples)
